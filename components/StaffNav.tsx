@@ -37,7 +37,7 @@ const menuItems = [
   },
   {
     name: "Bulk Verification",
-    path: "/staff/verification/upload",
+    path: "/staff/bulk-verification",
     icon: FiUpload,
   },
   {
